@@ -16,29 +16,12 @@ In this repository, you will find:
 - **Data**: Datasets used in the projects (where applicable).
 - **Documentation**: Explanations, methodologies, and findings for each project.
 
-## Getting Started
-
-To explore the projects:
-
-1. Clone this repository to your local machine:
-    ```bash
-    git clone https://github.com/your-username/codealpha-internship-projects.git
-    ```
-2. Navigate to the project directory:
-    ```bash
-    cd codealpha-internship-projects
-    ```
-3. Explore the individual project folders for detailed documentation and code.
-
-## Contributing
-
-As this repository is intended for my internship projects, contributions are not currently open. However, feedback and suggestions are welcome.
 
 ## Contact
 
 For any questions or further information, feel free to connect with me via:
 
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
+- [LinkedIn](https://www.linkedin.com/in/aditi-chandel-49114a2b5/)
 
 Thank you for following along with my journey at CodeAlpha!
 
