@@ -1,4 +1,3 @@
-# CodeAlpha
 # CodeAlpha Data Science Internship Projects
 
 ## Overview
